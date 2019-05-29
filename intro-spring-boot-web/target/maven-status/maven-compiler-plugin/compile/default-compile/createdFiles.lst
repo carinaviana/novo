@@ -1,0 +1,14 @@
+br\com\devmedia\controller\MusicaController.class
+br\com\devmedia\service\MusicaService.class
+br\com\devmedia\service\PlaylistServiceImpl.class
+br\com\devmedia\domain\Musica.class
+br\com\devmedia\dao\PlaylistDao.class
+br\com\devmedia\dao\PlaylistDaoImpl.class
+br\com\devmedia\config\ConfiguracaoSpringMvc.class
+br\com\devmedia\controller\PlaylistController.class
+br\com\devmedia\dao\MusicaDaoImpl.class
+br\com\devmedia\service\MusicaServiceImpl.class
+br\com\devmedia\domain\Playlist.class
+br\com\devmedia\dao\MusicaDao.class
+br\com\devmedia\service\PlaylistService.class
+br\com\devmedia\SpotmusicApplication.class
